@@ -1,0 +1,25 @@
+@font-face {
+  font-family: Imported;
+  src: url(./fonts/SF-Pro-Text-Medium.otf);
+}
+
+.bg {
+  background-image: url(./images/black-bg.jpg);
+  background-position: center;
+  background-size: cover; 
+  min-height: 100vh;
+}
+
+#root {
+  font-family: Imported;
+}
+
+
+
+
+
+
+
+
+
+
